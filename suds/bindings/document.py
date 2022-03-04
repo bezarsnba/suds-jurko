@@ -62,6 +62,8 @@ class Document(Binding):
             root = self.document(pts[0])
         else:
             root = []
+        if value is None:
+            pass        
 
         def add_param(param_name, param_type, in_choice_context, value):
             """

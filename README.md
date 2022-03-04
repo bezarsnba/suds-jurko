@@ -67,3 +67,7 @@ RUN `python examples/test_client.py` to test whether this package is working pro
 
 **Running .NET WCF service**
 * `cd examples/NET45_WCF/ && run_service.bat` <- Run this in Visual Studio developer command prompt
+
+
+#
+REF: https://github.com/salesforce-marketingcloud/FuelSDK-Python#custom-suds-changes-deprecated
